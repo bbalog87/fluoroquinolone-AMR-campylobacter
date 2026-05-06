@@ -4,7 +4,7 @@ from Bio import Entrez
 import argparse
 
 # Set your email (required by NCBI to identify users)
-Entrez.email = "your_email@example.com"
+Entrez.email = "balogog87@gmail.com"
 
 def download_genome(accession, output_dir):
     """Download genome sequence from NCBI by genome assembly accession number.
