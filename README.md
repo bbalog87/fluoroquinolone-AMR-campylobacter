@@ -65,8 +65,7 @@ The deduplicated master metadata table is provided in `data/processed/`.
 
 ## Citation
 
-> Nguinkal JA, Bako E, et al. Mutation Dynamics of gyrA QRDR in *Campylobacter* spp.:
-> Genomic Insights from Three Decades of Global One Health Surveillance. *[Journal]*, 2025.
+tba.
 
 ## License
 
